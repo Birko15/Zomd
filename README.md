@@ -1,2 +1,2 @@
 # Zomd
-fixing dixing
+........there´s nothing............for now.
