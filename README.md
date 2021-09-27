@@ -1,2 +1,2 @@
 # Zomd
-........there´s nothing............for now.
+123 slaughter me street wooooooooooooooo
