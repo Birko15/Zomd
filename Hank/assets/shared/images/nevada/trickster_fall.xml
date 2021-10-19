@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="trickster_fall.png">
+<SubTexture name="trickster fall animation0000" x="0" y="0" width="651" height="693" frameX="0" frameY="0" frameWidth="651" frameHeight="693" />
+<SubTexture name="trickster fall animation0001" x="651" y="0" width="651" height="693" frameX="0" frameY="0" frameWidth="651" frameHeight="693" />
+<SubTexture name="trickster fall animation0002" x="1302" y="0" width="651" height="693" frameX="0" frameY="0" frameWidth="651" frameHeight="693" />
+<SubTexture name="trickster fall animation0003" x="1953" y="0" width="651" height="693" frameX="0" frameY="0" frameWidth="651" frameHeight="693" />
+<SubTexture name="trickster fall animation0004" x="0" y="693" width="651" height="693" frameX="0" frameY="0" frameWidth="651" frameHeight="693" />
+<SubTexture name="trickster fall animation0005" x="651" y="693" width="651" height="693" frameX="0" frameY="0" frameWidth="651" frameHeight="693" />
+<SubTexture name="trickster fall animation0006" x="1302" y="693" width="651" height="693" frameX="0" frameY="0" frameWidth="651" frameHeight="693" />
+<SubTexture name="trickster fall animation0007" x="1953" y="693" width="651" height="693" frameX="0" frameY="0" frameWidth="651" frameHeight="693" />
+<SubTexture name="trickster nothing0000" x="0" y="1386" width="578" height="687" frameX="0" frameY="0" frameWidth="578" frameHeight="687" />
+</TextureAtlas>

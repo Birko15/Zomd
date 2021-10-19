@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="deimos.png">
+<SubTexture name="deimos dance0000" x="0" y="0" width="393" height="233" frameX="0" frameY="0" frameWidth="393" frameHeight="233" />
+<SubTexture name="deimos dance0001" x="0" y="0" width="393" height="233" frameX="0" frameY="0" frameWidth="393" frameHeight="233" />
+<SubTexture name="deimos dance0002" x="0" y="0" width="393" height="233" frameX="0" frameY="0" frameWidth="393" frameHeight="233" />
+<SubTexture name="deimos dance0003" x="393" y="0" width="393" height="233" frameX="0" frameY="0" frameWidth="393" frameHeight="233" />
+<SubTexture name="deimos dance0004" x="393" y="0" width="393" height="233" frameX="0" frameY="0" frameWidth="393" frameHeight="233" />
+<SubTexture name="deimos dance0005" x="393" y="0" width="393" height="233" frameX="0" frameY="0" frameWidth="393" frameHeight="233" />
+<SubTexture name="deimos dance0006" x="786" y="0" width="393" height="233" frameX="0" frameY="0" frameWidth="393" frameHeight="233" />
+<SubTexture name="deimos dance0007" x="786" y="0" width="393" height="233" frameX="0" frameY="0" frameWidth="393" frameHeight="233" />
+<SubTexture name="deimos dance0018" x="786" y="0" width="393" height="233" frameX="0" frameY="0" frameWidth="393" frameHeight="233" />
+<SubTexture name="deimos dance0019" x="1179" y="0" width="393" height="233" frameX="0" frameY="0" frameWidth="393" frameHeight="233" />
+<SubTexture name="deimos dance0010" x="1179" y="0" width="393" height="233" frameX="0" frameY="0" frameWidth="393" frameHeight="233" />
+<SubTexture name="deimos dance0011" x="0" y="233" width="393" height="233" frameX="0" frameY="0" frameWidth="393" frameHeight="233" />
+</TextureAtlas>

@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="helicopter.png">
+<SubTexture name="helicopter spin0000" x="0" y="0" width="687" height="390" frameX="0" frameY="0" frameWidth="687" frameHeight="390" />
+<SubTexture name="helicopter spin0001" x="687" y="0" width="687" height="390" frameX="0" frameY="0" frameWidth="687" frameHeight="390" />
+</TextureAtlas>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sanford.png">
+<SubTexture name="sanford dance0000" x="0" y="0" width="403" height="250" frameX="0" frameY="0" frameWidth="403" frameHeight="250" />
+<SubTexture name="sanford dance0001" x="0" y="0" width="403" height="250" frameX="0" frameY="0" frameWidth="403" frameHeight="250" />
+<SubTexture name="sanford dance0002" x="0" y="0" width="403" height="250" frameX="0" frameY="0" frameWidth="403" frameHeight="250" />
+<SubTexture name="sanford dance0003" x="403" y="0" width="403" height="250" frameX="0" frameY="0" frameWidth="403" frameHeight="250" />
+<SubTexture name="sanford dance0004" x="403" y="0" width="403" height="250" frameX="0" frameY="0" frameWidth="403" frameHeight="250" />
+<SubTexture name="sanford dance0005" x="403" y="0" width="403" height="250" frameX="0" frameY="0" frameWidth="403" frameHeight="250" />
+<SubTexture name="sanford dance0006" x="806" y="0" width="403" height="250" frameX="0" frameY="0" frameWidth="403" frameHeight="250" />
+<SubTexture name="sanford dance0007" x="806" y="0" width="403" height="250" frameX="0" frameY="0" frameWidth="403" frameHeight="250" />
+<SubTexture name="sanford dance0008" x="806" y="0" width="403" height="250" frameX="0" frameY="0" frameWidth="403" frameHeight="250" />
+<SubTexture name="sanford dance0009" x="1209" y="0" width="403" height="250" frameX="0" frameY="0" frameWidth="403" frameHeight="250" />
+<SubTexture name="sanford dance0010" x="1209" y="0" width="403" height="250" frameX="0" frameY="0" frameWidth="403" frameHeight="250" />
+<SubTexture name="sanford dance0011" x="0" y="250" width="403" height="250" frameX="0" frameY="0" frameWidth="403" frameHeight="250" />
+</TextureAtlas>
