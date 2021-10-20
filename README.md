@@ -1,2 +1,2 @@
 # Zomd
-123 slaughter me street wooooooooooooooo
+dont bother with hank i gotta fix it
