@@ -1,2 +1,3 @@
 # Zomd
-dont bother with hank i gotta fix it
+Now thats music or something like that
+Sus sus among us in real life
