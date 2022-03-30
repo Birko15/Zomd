@@ -1,3 +1,4 @@
 # Zomd
-Now thats music or something like that
-Sus sus among us in real life
+Spongebob:Now thats music or something like that
+Spong:Sus sus among us in real life
+SiNgS aBsOrB 
